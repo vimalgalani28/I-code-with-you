@@ -1,0 +1,19 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+}
+#logo{
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'Lora', serif;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+.slider{
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
+.row h5{
+    font-family: 'Lora', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
